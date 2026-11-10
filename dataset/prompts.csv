@@ -1,0 +1,6 @@
+Prompt_Type,Template
+General,"Answer the healthcare question: {question}"
+Symptoms,"Explain the symptoms and causes of: {question}"
+Treatment,"Describe treatment options for: {question}"
+Prevention,"Provide prevention tips for: {question}"
+AI_Healthcare,"Explain how AI is used in: {question}"
